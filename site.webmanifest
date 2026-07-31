@@ -1,0 +1,10 @@
+{
+  "name": "SnapTok - TikTok Video Downloader",
+  "short_name": "SnapTok",
+  "description": "Download video, audio, dan foto TikTok tanpa watermark, gratis dan cepat.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05060A",
+  "theme_color": "#05060A",
+  "icons": []
+}

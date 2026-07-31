@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  sitemap.xml — SnapTok (https://snaptok.app)
+  Letakkan file ini di root domain: https://snaptok.app/sitemap.xml
+  Update tag <lastmod> setiap kali konten halaman berubah.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://snaptok.app/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!--
+    Halaman-halaman di bawah ini bersifat CONTOH untuk pengembangan SEO
+    lanjutan (lihat panduan strategi keyword). Buat halaman ini secara nyata
+    terlebih dahulu sebelum memasukkannya ke sitemap — jangan submit URL
+    yang belum ada (404) karena akan merusak kepercayaan crawler.
+  -->
+
+  <url>
+    <loc>https://snaptok.app/cara-download-video-tiktok-tanpa-watermark</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://snaptok.app/download-mp3-tiktok</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://snaptok.app/download-foto-slideshow-tiktok</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://snaptok.app/faq</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://snaptok.app/tentang-kami</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://snaptok.app/kebijakan-privasi</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://snaptok.app/syarat-ketentuan</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

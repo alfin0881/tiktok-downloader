@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-void: #05060A;
+  --color-surface: #0B0D14;
+  --color-surface2: #12141C;
+  --color-line: #1E212B;
+  --color-ink: #F4F6FB;
+  --color-muted: #8B93A7;
+
+  --color-snapcyan: #2DE2E6;
+  --color-snapmagenta: #FF3EA5;
+  --color-snapmint: #38F2A4;
+
+  --font-display: "Space Grotesk", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+@utility shadow-glow {
+  box-shadow:
+    0 0 0 1px rgba(45,226,230,.15),
+    0 20px 60px -20px rgba(255,62,165,.35);
+}

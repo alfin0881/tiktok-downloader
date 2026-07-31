@@ -1,0 +1,47 @@
+# =============================================================
+# robots.txt — SnapTok (https://snaptok.app)
+# Letakkan file ini di root domain: https://snaptok.app/robots.txt
+# =============================================================
+
+# ---- Aturan umum untuk semua crawler ----
+User-agent: *
+Allow: /
+Disallow: /assets/tmp/
+Disallow: /*?*utm_
+Disallow: /*?*ref=
+Disallow: /404
+Crawl-delay: 1
+
+# ---- Googlebot (utama & gambar) ----
+User-agent: Googlebot
+Allow: /
+Disallow: /assets/tmp/
+
+User-agent: Googlebot-Image
+Allow: /assets/
+
+# ---- Bingbot ----
+User-agent: Bingbot
+Allow: /
+Disallow: /assets/tmp/
+Crawl-delay: 1
+
+# ---- Yandex ----
+User-agent: YandexBot
+Allow: /
+Disallow: /assets/tmp/
+Crawl-delay: 2
+
+# ---- Blokir bot AI scraping agresif yang tidak berguna untuk SEO (opsional) ----
+# Hapus baris di bawah jika Anda justru ingin diindeks oleh AI crawler ini.
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+# ---- Sitemap ----
+Sitemap: https://snaptok.app/sitemap.xml
