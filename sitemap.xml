@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   sitemap.xml — SnapTok (https://snaptok.app)
-  Letakkan file ini di root domain: https://snaptok.app/sitemap.xml
+  Letakkan file ini di root domain: https://snaptok-app.online/sitemap.xml
   Update tag <lastmod> setiap kali konten halaman berubah.
 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://snaptok.app/</loc>
+    <loc>https://snaptok-app.online/</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -22,49 +22,49 @@
   -->
 
   <url>
-    <loc>https://snaptok.app/cara-download-video-tiktok-tanpa-watermark</loc>
+    <loc>https://snaptok-app.online/cara-download-video-tiktok-tanpa-watermark</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://snaptok.app/download-mp3-tiktok</loc>
+    <loc>https://snaptok-app.online/download-mp3-tiktok</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://snaptok.app/download-foto-slideshow-tiktok</loc>
+    <loc>https://snaptok-app.online/download-foto-slideshow-tiktok</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://snaptok.app/faq</loc>
+    <loc>https://snaptok-app.online/faq</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://snaptok.app/tentang-kami</loc>
+    <loc>https://snaptok-app.online/tentang-kami</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <url>
-    <loc>https://snaptok.app/kebijakan-privasi</loc>
+    <loc>https://snaptok-app.online/kebijakan-privasi</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <url>
-    <loc>https://snaptok.app/syarat-ketentuan</loc>
+    <loc>https://snaptok-app.online/syarat-ketentuan</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
