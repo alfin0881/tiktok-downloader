@@ -1,6 +1,6 @@
 # =============================================================
-# robots.txt — SnapTok (https://snaptok.app)
-# Letakkan file ini di root domain: https://snaptok.app/robots.txt
+# robots.txt — SnapTok (https://snaptok-app.online/)
+# Letakkan file ini di root domain: https://snaptok-app.online//robots.txt
 # =============================================================
 
 # ---- Aturan umum untuk semua crawler ----
@@ -44,4 +44,4 @@ User-agent: ClaudeBot
 Disallow: /
 
 # ---- Sitemap ----
-Sitemap: https://snaptok.app/sitemap.xml
+Sitemap: https://snaptok-app.online//sitemap.xml
